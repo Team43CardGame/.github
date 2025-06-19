@@ -1,7 +1,7 @@
 name: Bug Report
 description: File a bug report.
 title: "[Bug]: "
-labels: ["Backlog: bug report"]
+labels: ["Backlog: Bug Report", "Priority: Medium", "Severity: Minor"]
 projects: ["inno-swp-2025/1"]
 type: "Backlog"
 body:
