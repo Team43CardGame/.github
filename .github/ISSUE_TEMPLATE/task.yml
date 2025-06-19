@@ -3,6 +3,7 @@ description: "Create a task."
 title: "[Task]: "
 labels: ["Task: development"]
 projects: ["inno-swp-2025/2"]
+type: "Task"
 body:
   - type: textarea
     id: about-tasks

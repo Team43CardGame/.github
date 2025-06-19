@@ -3,6 +3,7 @@ description: File a bug report.
 title: "[Bug]: "
 labels: ["Backlog: bug report"]
 projects: ["inno-swp-2025/1"]
+type: "Backlog"
 body:
   - type: textarea
     id: reproduce
