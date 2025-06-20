@@ -1,7 +1,7 @@
 name: "[Tasks] Task"
 description: "Create a task."
 title: "[Task]: "
-labels: ["Task: Development", "Priority: Medium"]
+labels: ["Task: Development", "Priority: 2"]
 projects: ["inno-swp-2025/2"]
 type: "Task"
 body:
