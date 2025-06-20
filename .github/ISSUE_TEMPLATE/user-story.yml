@@ -23,9 +23,9 @@ body:
 
         Example:
 
-        As a content creator,
-        I want to apply visual effects and filters
-        so that I can make my content more creative and stand out.
+        As a user reading comments,
+        I want to be protected from seeing harmful or offensive language
+        so that I can enjoy the content and discussions without being exposed to toxicity.
         -->
     validations:
       required: true
