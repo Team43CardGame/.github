@@ -1,4 +1,4 @@
-name: "[Backlog] User Story"
+name: "Backlog: User Story"
 description: "File a user story for a new feature or improvement."
 title: "[User Story]: "
 labels: ["Backlog: User Story", "Priority: 2"]

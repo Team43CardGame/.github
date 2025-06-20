@@ -1,4 +1,4 @@
-name: "[Backlog] Bug Report"
+name: "Backlog: Bug Report"
 description: "File a bug report."
 title: "[Bug]: "
 labels: ["Backlog: Bug Report", "Priority: 2", "Severity: 2"]

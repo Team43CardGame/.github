@@ -1,4 +1,4 @@
-name: "[Roadmap] Epic"
+name: "Epic"
 description: "File an epic (large user story) for a new feature or improvement."
 title: "[Epic]: "
 labels: ["Priority: 2"]

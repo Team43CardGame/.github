@@ -1,4 +1,4 @@
-name: "[Tasks] Task"
+name: "Task"
 description: "Create a task."
 title: "[Task]: "
 labels: ["Priority: 2"]
