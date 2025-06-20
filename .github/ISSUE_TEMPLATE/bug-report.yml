@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report.
+name: "[Backlog] Bug Report"
+description: "File a bug report."
 title: "[Bug]: "
 labels: ["Backlog: Bug Report", "Priority: Medium", "Severity: Minor"]
 projects: ["inno-swp-2025/1"]
