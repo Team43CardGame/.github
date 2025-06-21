@@ -10,7 +10,7 @@ body:
     attributes:
       label: "<!-- About tasks -->"
       description: |
-        Don't modify the default text in this field.
+        Don't modify the default text in this input field.
         Follow the instructions in the comment.
       value: |
         <!--
@@ -96,7 +96,7 @@ body:
     attributes:
       label: "<h2> Sub-issues </h2>"
       description: |
-        Don't modify the default text in this field.
+        Don't modify the default text in this input field.
       value: |
         Sub-issues are blockers for this task.
     validations:

@@ -37,7 +37,7 @@ body:
       description: |
         Keep the comment.
         Follow the instructions in the comment.
-        Don't modify the default text in this field.
+        Don't modify the default text in this input field.
       value: |
         <!--
         Define specific, testable (pass-fail) scenarios that must be met for this story to be complete.
@@ -99,7 +99,7 @@ body:
     attributes:
       label: "<h2> Sub-issues </h2>"
       description: |
-        Don't modify the default text in this field.
+        Don't modify the default text in this input field.
       value: |
         Sub-issues are tasks that implement this user story.
     validations:

@@ -96,7 +96,7 @@ body:
     attributes:
       label: "<h2> Sub-issues </h2>"
       description: |
-        Don't modify the default text in this field.
+        Don't modify the default text in this input field.
       value: |
         Sub-issues are tasks that resolve this technical debt.
     validations:
