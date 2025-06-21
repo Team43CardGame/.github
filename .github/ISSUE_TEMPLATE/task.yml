@@ -43,16 +43,15 @@ body:
   - type: textarea
     id: implementation-steps
     attributes:
-      label: "<h2> Implementation Steps </h2>"
+      label: "<h2> Subtasks </h2>"
       description: |
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
       value: |
         <!--
-        Break down the task into a checklist of specific, technical steps.
+        Break down the task into a checklist of specific, actionable subtasks.
         This is your "how-to" guide for meeting the Task Acceptance Criteria.
-        Think about files to modify, functions to create, tests to write, configurations to change, corner cases to handle, etc.
 
         Example:
 
@@ -75,8 +74,8 @@ body:
         Write your text in this input field after the comment.
       value: |
         <!--
-        List specific, verifiable, and technical outcomes.
-        This is what will be checked during code review.
+        List specific and verifiable outcomes.
+        This is what will be checked during review.
 
         Example:
 
