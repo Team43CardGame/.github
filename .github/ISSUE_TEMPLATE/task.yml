@@ -41,7 +41,7 @@ body:
       required: true
 
   - type: textarea
-    id: implementation-steps
+    id: subtasks
     attributes:
       label: "<h2> Subtasks </h2>"
       description: |
