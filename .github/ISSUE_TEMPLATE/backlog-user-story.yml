@@ -1,7 +1,7 @@
 name: "Backlog: User Story"
 description: "File a user story for a new feature or improvement."
 title: "[User Story]: "
-labels: ["Backlog: User Story", "Priority: 2"]
+labels: ["Backlog: User Story", "Meta: Unknown Priority"]
 projects: ["inno-swp-2025/1"]
 type: "Backlog"
 body:
@@ -101,6 +101,6 @@ body:
       description: |
         Don't modify the default text in this input field.
       value: |
-        Sub-issues are tasks that implement this user story.
+        Sub-issues are type `Task` issues that must be resolved to resolve this issue.
     validations:
       required: false

@@ -1,7 +1,7 @@
 name: "Backlog: Enabler"
 description: "Describe foundational work to enable future features or improvements."
 title: "[Enabler]: "
-labels: ["Backlog: Enabler", "Priority: 2"]
+labels: ["Backlog: Enabler", "Meta: Unknown Priority"]
 projects: ["inno-swp-2025/1"]
 type: "Backlog"
 body:
@@ -85,6 +85,6 @@ body:
       description: |
         Don't modify the default text in this input field.
       value: |
-        Sub-issues are tasks that implement this enabler.
+        Sub-issues are type `Task` issues that must be resolved to resolve this issue.
     validations:
       required: false
