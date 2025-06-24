@@ -13,7 +13,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Explain why this foundational work is necessary.
         What future user stories, features, or non-functional requirements (e.g., performance, scalability) does this work enable?
@@ -38,7 +38,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Describe the proposed technical approach at a high level.
         What systems will be changed? What new components will be created?
@@ -62,7 +62,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Define specific, technical, and testable conditions that must be met for this enabler to be considered complete.
         These are typically not user-facing scenarios.

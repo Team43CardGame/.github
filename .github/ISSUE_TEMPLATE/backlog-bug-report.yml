@@ -13,7 +13,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Explain step by step how to reproduce the behavior.
         Provide screenshots or a video if necessary.
@@ -36,7 +36,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Briefly describe what you expect to happen.
         Provide screenshots or a video if necessary.
@@ -57,7 +57,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Briefly describe what you're experiencing.
         Provide screenshots or a video if necessary.

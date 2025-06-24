@@ -13,7 +13,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Clearly state the primary question or hypothesis to be investigated.
 
@@ -32,7 +32,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Why is this investigation necessary? What problem does it address, what risk does it mitigate, or what opportunity does it explore? Link to relevant issues or documents.
 
@@ -51,7 +51,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Outline the high-level steps or tasks to be performed during this investigation. This is not a detailed implementation plan but a guide for the research.
 
