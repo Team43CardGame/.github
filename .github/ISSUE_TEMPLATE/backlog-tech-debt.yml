@@ -1,7 +1,7 @@
 name: "Backlog: Tech Debt"
 description: "Address a technical shortcut or an area of the codebase that needs refactoring."
 title: "[Tech Debt]: "
-labels: ["Backlog: Tech Debt", "Priority: 3"]
+labels: ["Backlog: Tech Debt", "Meta: Unknown Priority"]
 projects: ["inno-swp-2025/1"]
 type: "Backlog"
 body:
