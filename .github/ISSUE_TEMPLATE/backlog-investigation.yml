@@ -73,7 +73,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         What will be produced at the end of this investigation? How will we know it's complete and successful?
 

@@ -76,7 +76,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Outline the technical plan to fix the debt.
         Describe the desired end state.

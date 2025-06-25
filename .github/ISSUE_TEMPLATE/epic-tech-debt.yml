@@ -13,7 +13,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Describe the technical shortcut, design flaw, or outdated component.
         Be specific and include links to the relevant code, files, or services.
@@ -34,7 +34,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         (Optional) If known, explain the original reason for this implementation.
         This helps with understanding the context and avoiding similar issues in the future.
@@ -54,7 +54,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Explain how this debt is slowing down development, increasing risk, or causing other problems.
         This is the most important section for prioritization.
@@ -76,7 +76,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Outline the technical plan to fix the debt.
         Describe the desired end state.
